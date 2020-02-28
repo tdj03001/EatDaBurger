@@ -1,0 +1,24 @@
+{
+  "name": "upenn-week-13-homework-eatdaburger",
+  "version": "1.0.0",
+  "description": "NodeJS Burger-Eating App",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger.git"
+  },
+  "author": "Tyler Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}

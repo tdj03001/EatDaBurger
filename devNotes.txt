@@ -1,0 +1,5 @@
+- in Config setup instructions, create the methods for selectAll, insertOne, updateOne
+- in Model setup instructions, create code in burger.js that will call the ORM functions using burger-specific input for the ORM.
+- in Controller setup instructions, create the router for the app, and export the router at the end of the file.
+- in View setup instructions, setup main.handlebars so it's able to be used by handlebars
+- in View setup instructions, setup index.handlebars to have the template that handlebars can render onto
