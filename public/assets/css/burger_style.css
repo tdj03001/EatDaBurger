@@ -1,0 +1,55 @@
+body {
+  background: rgb(238, 189, 55);
+  /* font-family:  */
+}
+
+.title {
+  margin: auto;
+  text-align: center;
+  color: rgba(233, 23, 23, 0.719);
+}
+
+.burgerImg{
+  margin: auto;
+  
+}
+
+.CB {
+  margin: auto;
+  margin-bottom: 50px;
+  
+}
+
+.BRE {  
+  float: left;
+  margin-left: 10%;
+  padding-bottom: 30px
+}
+
+/* used this when I had BRE and BD in a single row */
+.BD {
+  float: left;
+  margin-left: 10%;
+  padding-bottom: 30px;
+}
+
+li {
+  /* font */
+  padding: 5px;
+  margin: 5px;
+  background: white;
+}
+
+.label {
+  font-weight: bold;
+}
+
+/* .create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+} */
+
+.form-group {
+  margin-bottom: 5px;
+}
