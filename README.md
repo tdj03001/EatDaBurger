@@ -12,3 +12,6 @@ Users will run the app from their local server by running the command "node serv
 
 # GitHub repo
 https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger
+
+# Notes
+App will eventually be deployed on the heroku platform with a URL so users don't have to start the localhost. This document will be updated once that is set up.
