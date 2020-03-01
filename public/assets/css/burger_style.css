@@ -1,6 +1,5 @@
 body {
   background: rgb(238, 189, 55);
-  /* font-family:  */
 }
 
 .title {
@@ -11,30 +10,30 @@ body {
 
 .burgerImg{
   margin: auto;
-  
 }
 
 .CB {
   margin: auto;
   margin-bottom: 50px;
-  
+  font-style: italic;
 }
 
 .BRE {  
   float: left;
   margin-left: 10%;
-  padding-bottom: 30px
+  padding-bottom: 30px;
+  font-style: italic;
 }
 
-/* used this when I had BRE and BD in a single row */
 .BD {
   float: left;
   margin-left: 10%;
   padding-bottom: 30px;
+  font-style: italic;
 }
 
 li {
-  /* font */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 5px;
   margin: 5px;
   background: white;
