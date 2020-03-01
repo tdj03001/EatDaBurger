@@ -34,7 +34,6 @@ const orm = {
   },
   insertOne: function (table, cols, vals, cb) {
     const queryString = "INSERT INTO " + table + " (" + cols.toString() + ") VALUES (" + printQuestionMarks(vals.length) + ")";
-    console.log(queryString);
     connection.query(queryString, vals, function (err, result) {
       if (err) {
         throw err;
@@ -44,7 +43,6 @@ const orm = {
   },
   updateOne: function (table, objColVals, condition, cb) {
     const queryString = "UPDATE " + table + " SET " + objToSql(objColVals) + " WHERE " + condition;
-    console.log(queryString);
     connection.query(queryString, function (err, result) {
       if (err) {
         throw err;
