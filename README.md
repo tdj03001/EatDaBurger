@@ -10,6 +10,9 @@ Users will run the app from their local server by running the command "node serv
 
 ![Screenshot of the app](public/assets/img/EatDaBurgerScreenshot.png)
 
+# Live site
+https://warm-basin-45502.herokuapp.com/
+
 # GitHub repo
 https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger
 
