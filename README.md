@@ -1,8 +1,8 @@
-# UPenn-Week-13-Homework-EatDaBurger
+# cheeseburgerfun
 
 # Purpose
 
-Eat Da Burger is an entertainment app where users can create burgers of any kind.
+Cheeseburgerfun is an entertainment app where users can create burgers of any kind.
 
 # Usage
 
@@ -14,4 +14,4 @@ Users will run the app from their local server by running the command "node serv
 https://cheeseburgerfun.herokuapp.com/
 
 ## GitHub repo
-https://github.com/tdj03001/UPenn-Week-13-Homework-EatDaBurger
+https://github.com/tdj03001/cheeseburgerfun
